@@ -34,3 +34,15 @@ MagnaDelta​ 是一个基于格式化中文 Markdown 文件的法律条文对�
 
 ### 输出文件示例
 <img width="671" alt="截屏2025-03-03 下午1 06 55" src="https://github.com/user-attachments/assets/f6ec6dd0-3e2f-44f5-b59d-0e0047c9a114" />
+
+## 实现原理
+​- 结构化解析
+  - 使用正则表达式识别章节层级（#/##）
+  - 解析中日式法律条文格式（第X条　内容）
+​
+- 智能匹配
+  - 基于SequenceMatcher的相似度算法
+  - 阈值控制（相似度>40%）
+​
+- 差异标注：
+  - diff-match-patch算法，语义清理优化
