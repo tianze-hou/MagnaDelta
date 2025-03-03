@@ -73,5 +73,6 @@ MagnaDelta​ 是一个基于格式化中文 Markdown 文件的法律条文对�
 - [ ] 多格式导出支持
 3. 生成的对比表格将保存为 `comparison.md` 文件。
 
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tianze-hou/ManaDelta&type=Date)](https://star-history.com/#tianze-hou/MagnaDelta&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tianze-hou/MagnaDelta&type=Date)](https://star-history.com/#tianze-hou/MagnaDelta&Date)
