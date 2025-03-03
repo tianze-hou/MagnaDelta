@@ -47,7 +47,7 @@ MagnaDelta​ 是一个基于格式化中文 Markdown 文件的法律条文对�
 1. 克隆本仓库到本地：
 
    ```bash
-   git clone https://github.com/Tianze-Hou/MagnaDelta.git
+   git clone https://github.com/tianze-hou/MagnaDelta.git
    cd MagnaDelta
    ```
 
