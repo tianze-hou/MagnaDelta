@@ -69,10 +69,12 @@ MagnaDelta​ 是一个基于格式化中文 Markdown 文件的法律条文对�
    python3 main.py
    ```
 
+3. 生成的对比表格将保存为 `comparison.md` 文件。
+
 ## Todo
 - [ ] 自动格式化parser
 - [ ] 多格式导出支持
-3. 生成的对比表格将保存为 `comparison.md` 文件。
+- [ ] 处理“拆分”和“合并”的条目
 
 ## Star History
 
